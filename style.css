@@ -1,0 +1,46 @@
+#jumbo{
+  background-color: #1c4785;
+  color: white;
+}
+#button{
+  padding: 3%;
+}
+.card-deck{
+  margin-top: 5%;
+}
+.card{
+  background-color:#1c45;
+  color: white;
+}
+
+
+.card-body {
+  background-color: pink;
+  color: #1c4885;
+}
+
+#dropdownMenuButton{
+  background-color: white;
+  color: #1c47;
+}
+
+.dropdowns{
+  display: flex;
+}
+.dropdown{
+  margin-left: 5%;
+
+}
+
+}
+.navbar-brand{
+  color: #1c4785!important;
+}
+.navbar-nav li a{
+  color: #4d1c85;
+}
+.carousel-item{
+  height:300px;
+
+
+}
